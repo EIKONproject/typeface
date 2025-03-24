@@ -6,3 +6,4 @@ A list of useful Typeface resources. Feel free to contribute with an [issue](htt
 | ----------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
 | Velvetyne Type Foundry  | Designing and distributing free and open source typefaces. | https://velvetyne.fr/                                |
 | Velvetyne Libre Friends | Libre font collections picked by the Velvetyne members.    | https://gitlab.com/velvetyne/velvetyne-libre-friends |
+| Collletttivo            | Open-Source type foundry and network.                      | https://www.collletttivo.it                          |
